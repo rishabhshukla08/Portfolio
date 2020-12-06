@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: 'Hello My Name is Rishabh Shukla',
+  paragraphOne: 'Hello my name is Rishabh Shukla',
   paragraphTwo:
     'I am pursuing my final year B.Tech in Computer Science and Engineering from IMS ENGINEERING COLLEGE, Ghaziabad',
   paragraphThree:
