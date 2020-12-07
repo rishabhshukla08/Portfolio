@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.png',
   paragraphOne: 'Hello my name is Rishabh Shukla',
   paragraphTwo:
-    'I am pursuing my final year B.Tech in Computer Science and Engineering from IMS ENGINEERING COLLEGE, Ghaziabad',
+    'I am currently pursuing my final year B.Tech in Computer Science and Engineering from IMS ENGINEERING COLLEGE, Ghaziabad',
   paragraphThree:
     'I have deep curiosity for learning new technologies and solving real-world problems, currently I am looking for opportunities either Full-time or Intern.',
   resume: 'https://drive.google.com/file/d/1uMtM6mMqwdCxzbntI46INcUfBITXlul7/view?usp=sharing', // if no resume, the button will not show up
